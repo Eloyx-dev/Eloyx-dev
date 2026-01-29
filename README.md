@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=2c3e50&height=150&section=header&text=ELOY%20QUEST&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=ffffff" width="100%" />
+  <img src="KinghtBarata.jpg" width="100%" />
 </div>
 
 <br>
