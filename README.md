@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="HollowMarchando.gif" width="800" height="600" />
+  <img src="HollowMarchando.gif" width="800" height="400" />
 </div>
 
 <br>
