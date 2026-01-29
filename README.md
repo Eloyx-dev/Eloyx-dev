@@ -15,7 +15,7 @@
       <p><i>"Explorando dungeons de código para construir mundos épicos."</i></p>
     </td>
     <td width="50%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VxdGNyeWxqZzh5amx0Zzh5amx0Zzh5amx0Zzh5amx0Zzh5amx0JmFjdD1n/tS9P4HO5gM1u8/giphy.gif" width="250" style="border-radius: 15px;">
+      <img src="KnightBreakdance.gif" width="250" style="border-radius: 15px;">
     </td>
   </tr>
 </table>
