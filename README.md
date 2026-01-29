@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="KinghtBarata.jpg" width="100%" />
+  <img src="KnightBarata.jpg" width="100%" />
 </div>
 
 <br>
