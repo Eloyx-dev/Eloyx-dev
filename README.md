@@ -9,7 +9,7 @@
     <td width="50%">
       <h1> ⚔️ Player Status </h1>
       <p><b>Class:</b> Game Developer Apprentice</p>
-      <p><b>HP:</b> 100/100 (Bebendo café...)</p>
+      <p><b>HP:</b> 100/100 (Injetando café...)</p>
       <p><b>Level:</b> Estagiário no Mundo Web</p>
       <hr>
       <p><i>"Explorando dungeons de código para construir mundos épicos."</i></p>
